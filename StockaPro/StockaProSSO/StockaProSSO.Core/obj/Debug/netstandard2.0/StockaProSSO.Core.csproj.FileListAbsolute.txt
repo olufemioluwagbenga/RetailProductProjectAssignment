@@ -1,0 +1,7 @@
+C:\Users\kayode.ademolaji\Desktop\StockaPro\StockaProSSO\StockaProSSO.Core\bin\Debug\netstandard2.0\StockaProSSO.Core.deps.json
+C:\Users\kayode.ademolaji\Desktop\StockaPro\StockaProSSO\StockaProSSO.Core\bin\Debug\netstandard2.0\StockaProSSO.Core.dll
+C:\Users\kayode.ademolaji\Desktop\StockaPro\StockaProSSO\StockaProSSO.Core\obj\Debug\netstandard2.0\StockaProSSO.Core.csprojAssemblyReference.cache
+C:\Users\kayode.ademolaji\Desktop\StockaPro\StockaProSSO\StockaProSSO.Core\obj\Debug\netstandard2.0\StockaProSSO.Core.csproj.CoreCompileInputs.cache
+C:\Users\kayode.ademolaji\Desktop\StockaPro\StockaProSSO\StockaProSSO.Core\obj\Debug\netstandard2.0\StockaProSSO.Core.AssemblyInfoInputs.cache
+C:\Users\kayode.ademolaji\Desktop\StockaPro\StockaProSSO\StockaProSSO.Core\obj\Debug\netstandard2.0\StockaProSSO.Core.AssemblyInfo.cs
+C:\Users\kayode.ademolaji\Desktop\StockaPro\StockaProSSO\StockaProSSO.Core\bin\Debug\netstandard2.0\StockaProSSO.Utilities.dll

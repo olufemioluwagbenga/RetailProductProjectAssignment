@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "RetailProduct.Interfaces/1.0.0": {
+        "dependencies": {
+          "RetailProduct.Models": "1.0.0"
+        },
+        "runtime": {
+          "RetailProduct.Interfaces.dll": {}
+        }
+      },
+      "RetailProduct.Models/1.0.0": {
+        "runtime": {
+          "RetailProduct.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RetailProduct.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RetailProduct.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
